@@ -45,8 +45,8 @@ This repository includes:
 - Developing structured assessment quizzes for users
 
 ## Author
-Fawad Khan
-University of Toledo
-M.S in Computer Science & Engineering
+- Fawad Khan
+- University of Toledo
+- M.S in Computer Science & Engineering
 
 
