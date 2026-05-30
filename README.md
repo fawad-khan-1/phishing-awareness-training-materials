@@ -29,6 +29,8 @@ The primary goal of this project is to improve cybersecurity awareness by:
 This repository includes:
 - Examples of phishing emails commonly aimed at university students
 - Examples of phishing emails commonly aimed at university staff
+- Student training material
+- Staff training material
 
 ## Key Learning Outcomes
 - Understanding of phishing attack structures and patterns
